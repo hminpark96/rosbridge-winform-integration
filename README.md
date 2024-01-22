@@ -32,4 +32,4 @@
 - Scottplot을 통한 실시간 데이터 시각화
 
 ## 라이선스
-이 프로젝트는 https://github.com/siemens/ros-sharp 를 참고하였습니다. 라이선스는 https://github.com/siemens/ros-sharp를 참고해주세요.
+이 프로젝트는 https://github.com/siemens/ros-sharp 를 참고하였습니다. 라이선스는 https://github.com/siemens/ros-sharp 를 참고해주세요.
