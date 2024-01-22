@@ -21,7 +21,7 @@
 
 ### 설치 과정
 1. GitHub에서 프로젝트를 클론합니다:
-2. Visual Studio에서 `Rosbridge-Winform.sln` 파일을 열고 프로젝트를 빌드합니다.
+2. Visual Studio에서 `MobileRobotSystem.sln` 파일을 열고 프로젝트를 빌드합니다.
 3. 필요한 NuGet 패키지를 설치합니다.
 
 ## 사용 방법
