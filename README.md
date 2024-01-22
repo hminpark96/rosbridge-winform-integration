@@ -14,7 +14,9 @@
 
 ### 필요 조건
 - Microsoft Visual Studio
-- .NET Framework
+- .NET 8.0
+- rosbridge-client-ros (1.8.0)
+- ScottPlot.WinForms (4.1.70)
 - ROSBridge 서버가 실행 중인 ROS 설치
 
 ### 설치 과정
